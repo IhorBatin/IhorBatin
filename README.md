@@ -1,16 +1,17 @@
-## Hi there 👋
-
 <!--
 **IhorBatin/IhorBatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Ihor 👋
+
+Android Developer who enjoys building apps.
+
+- 🔭 Currently focused on **Kotlin**, **Jetpack Compose**, and **Clean Architecture**
+- 🛠️ Also working with: MVVM, Hilt, Coroutines, GraphQL, Retrofit, Room
+- 🌱 Exploring how AI-assisted development tools fit into modern engineering workflows
+- 💼 Experience across fintech and healthcare Android apps
+- 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/ihorbatin/)
+
+---
+
+📌 A few of my repos below are experiments/side projects — not published apps, just me trying things out.
